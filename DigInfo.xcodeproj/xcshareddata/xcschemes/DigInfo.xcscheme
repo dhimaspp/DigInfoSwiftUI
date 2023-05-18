@@ -33,9 +33,20 @@
             parallelizable = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E3DEAD3429FBC0B800521185"
+               BlueprintIdentifier = "E3DEAD5A2A00F36700521185"
                BuildableName = "DigInfoTests.xctest"
                BlueprintName = "DigInfoTests"
+               ReferencedContainer = "container:DigInfo.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO"
+            parallelizable = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "E3DEAD672A00F61400521185"
+               BuildableName = "DigInfoTests2.xctest"
+               BlueprintName = "DigInfoTests2"
                ReferencedContainer = "container:DigInfo.xcodeproj">
             </BuildableReference>
          </TestableReference>
